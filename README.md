@@ -1,6 +1,6 @@
 Name: Ankit Singh
 College: IIT Gandhinagar
-Department: Chemical Engineering
+Department: Chemical Engineering(Minor in CSE)
 
 
 
